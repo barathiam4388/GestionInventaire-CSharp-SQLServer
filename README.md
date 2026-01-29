@@ -35,3 +35,9 @@ Le script de création se trouvera dans le dossier `Database/script.sql`.
 - Pratiquer le CRUD
 - Comprendre la connexion à une base de données
 - Structurer un projet C# de façon claire
+
+- ## Captures d’écran
+![Interface](Screenshots/interface.png)
+![Ajout produit](Screenshots/ajout-produit.png)
+![Liste produits](Screenshots/liste-produits.png)
+
